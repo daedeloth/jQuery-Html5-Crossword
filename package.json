@@ -1,0 +1,19 @@
+{
+  "name": "jquery-html5-crossword",
+  "version": "1.0.0",
+  "description": "jQuery html5 crossword",
+  "main": "crossword.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daedeloth/jQuery-Html5-Crossword.git"
+  },
+  "author": "Giulia Alfonsi <electric.g@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daedeloth/jQuery-Html5-Crossword/issues"
+  },
+  "homepage": "https://github.com/daedeloth/jQuery-Html5-Crossword#readme"
+}
