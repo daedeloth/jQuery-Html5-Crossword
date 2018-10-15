@@ -205,7 +205,7 @@ $.fn.crossword = function(options) {
 
 
         // for chrome and safari click event
-        _$input.live("mouseup", function() {
+        _$input.on("mouseup", null, function() {
             return false;
         });
 
